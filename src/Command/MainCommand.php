@@ -38,6 +38,7 @@ class MainCommand extends Command
 	protected function execute(InputInterface $input, OutputInterface $output)
 	{
 	    //test1
+	    //test2
 		var_dump($this->commandHandlers);
 	}
 
